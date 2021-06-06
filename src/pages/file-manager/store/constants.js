@@ -1,0 +1,5 @@
+export const MODIFY_KEY_MAP = "MODIFY_KEY_MAP";
+export const MODIFY_DATA_SET = "MODIFY_DATA_SET";
+export const SET_CURRENT_TYPE = "SET_CURRENT_TYPE";
+export const SET_CURRENT_TIME = "SET_CURRENT_TIME";
+export const SET_TIME_FILTER = "SET_TIME_FILTER";
